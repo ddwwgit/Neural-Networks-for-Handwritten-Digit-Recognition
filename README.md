@@ -15,6 +15,7 @@ The notebook includes exercises designed to solidify your understanding and allo
 - Exercise 1: Implement the Softmax function.
 - Exercise 2: Construct and train your neural network model.
 
+
 ### Prerequisites
 - Basic knowledge of Python programming.
 - Familiarity with the concepts of machine learning and neural networks.
